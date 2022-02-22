@@ -12,6 +12,8 @@ Depuração de programas. Conceito e uso de pilhas, filas, listas, árvores. Re
 __Bibliografia Base:__
 - PERKOVIC, Ljubomir. __Introdução à Computação Usando Python - Um Foco no Desenvolvimento de Aplicações.__ 1 ed. LTC. 2016.
 - Miller, Brad; Ranum, David. __Como Pensar como um Cientista da Computação.__ 2019. Disponível em: https://panda.ime.usp.br/pensepy/static/pensepy/index.html
+
+
 __Bibliografia Complementar:__
 - FREEMAN, Eric. __Use a Cabeça! Aprenda Programar.__ 1 ed. Alta Books. 2019. 
 - DOWNEY, Allen. __Pense Python: pense como um Cientista da Computação.__ 1 ed.
