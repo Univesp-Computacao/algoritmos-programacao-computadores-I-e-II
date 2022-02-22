@@ -1,6 +1,6 @@
 # Algoritmos e Programação de Computadores
 
-## Repo criado para: 
+__ Repo criado para: __ 
 - estudos referente a COM110 e COM120
 - projetos e assuntos relacionados com a ementa da discilina
 
