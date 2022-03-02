@@ -18,7 +18,7 @@
 - exerc_09 - O número é par ou ímpar?
 - exerc_10 - Determinar o máximo inteiro de três.
 - exerc_11 - Checando a divisibilidade de um inteiro por outro.
-- exerc_12 - Convertendo Celsiu para Farenheit e vice-versa.
+- exerc_12 - Convertendo Celsiu para Farenheit.
 - exerc_13 - Calcular massa, densidade ou volume.
 - exerc_14 - Em qual quadrante está o ponto?
 - exerc_15 - Determinar quando um ano é bissexto.
@@ -50,7 +50,7 @@
 - exerc_41 - Criar dicionário de duas listas.
 - exerc_42 - Deletar um item randômico de um dicionários.
 
-### Exerc´icios utilizando funções:
+### Exercícios utilizando funções:
 - exerc_43 - Achar média de dois números.
 - exerc_44 - Preencher uma lista com números.
 - exerc_45 - Calcular média aritmética de uma lista de elementos.
