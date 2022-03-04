@@ -8,13 +8,15 @@ def calcularMedia(lista):
     return soma / tam_lista
 
 
-print("Digite inteiros separados por espaço para descobrir \n a média aritmética deles:")
-numeros_str = input()
+numeros_str = input("Digite inteiros separados por espaço para descobrir \n a média aritmética deles:")
 print(type(numeros_str))
+# converte inteiros a uma lista
 numeros_lst = numeros_str.split()
+# transforma string em inteiros
 for i in range(len(numeros_lst)):
     numeros_lst[i] = int(numeros_lst[i])
 
+# a variavel abaixo irá receber e armazenar o valor de retorno da função calcularMédia()
 media = calcularMedia(numeros_lst)
 
 print("A média é :", round(media, 2))

@@ -1,20 +1,29 @@
 # Selection sort
+# Encher uma lista com números randômicos, mostrá-la e depois
+# organizá-la na ordem crescente com o método de selection sort
+
 from random import randint
 
+# número de elementos
 n = 7
-a = []
+lista = []
 for i in range(n):
-    a.append(randint(1,20))
-print(a)
+    lista.append(randint(1, 20))
+print(lista)
 
+# as iterações são ao número de elemntos da lista menos um
 j = n - 1
-while j >0:
+while j > 0:
+
+    # a variável ind irá guardar o valor mais alto
     ind = 0
-    for i in range (1, j+1):
-        if a[i] > a[ind]:
+
+    for i in range(1, j + 1):
+        # verifica se o elemento atual é maior
+        if lista[i] > lista[ind]:
             ind = i
-    b = a[ind]
-    a[ind] = a[j]
-    a[j] = b
+    b = lista[ind]
+    lista[ind] = lista[j]
+    lista[j] = b
     j -= 1
-print(a)
+print(lista)
