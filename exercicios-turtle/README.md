@@ -1,7 +1,6 @@
 # 🐢 Gráficos Turtle
 
-
-<img align="center" width="100" height="100" src="turtle.gif">
+![turtle](turtle.gif)
 
 ## Alguns métodos e usos do módulo Turtle 
 
