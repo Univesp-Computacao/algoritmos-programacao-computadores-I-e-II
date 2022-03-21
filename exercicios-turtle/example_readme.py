@@ -1,3 +1,6 @@
+"""
+extraído de https://pythonguides.com/python-turtle-art/
+"""
 from turtle import *
 import turtle
 ws = turtle.Screen()
