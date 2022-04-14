@@ -2,11 +2,11 @@
 
 from math import pi
 
+# receber altura e raio
 altura = float(input('altura = '))
-
-
 raio = float(input('raio = '))
 
+# duas vezes a areados círculos
 area_base = 2 * (pi * raio**2)
 
 # area do lado

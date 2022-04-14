@@ -1,4 +1,4 @@
-# Checar se trÊs número são primos.
+# Checar se três número são primos.
 
 from math import sqrt
 
