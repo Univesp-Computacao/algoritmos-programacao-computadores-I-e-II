@@ -1,7 +1,7 @@
 # Algoritmos e Programação de Computadores
 
 __Repo criado para:__ 
-- estudos referente a COM110 e COM120
+- estudos referente a COM110 e COM120 da UNIVESP
 - projetos e assuntos relacionados com a ementa da discilina
 
 ## __Ementa:__ 
